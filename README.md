@@ -1,4 +1,4 @@
-# telegram-chatgpt-bot
+# telegram-chatgpt-bot(taher
 
 A self-hostable Telegram bot that lets you speak with ChatGPT through text and voice memos. Notably, you can send it voice memos and it can respond with voice memos.
 
